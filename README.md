@@ -6,7 +6,7 @@ This project aims to address the gap in understanding how hormonal variations th
 
 ## 2. Problem Statement
 Women experience hormonal fluctuations each month that directly influence their physical and emotional states. However, few tools exist that connect these fluctuations to daily wellness outcomes such as fatigue, irritability, or motivation. Research by **Korobeynikov et al. (2019)** found that emotional exhaustion varies significantly across menstrual phases, while **Daniel & Jill (2006)** linked estrogen levels to improved cognitive function.  
-Despite these insights, most menstrual tracking applications only log cycle dates and physical symptoms. This lack of contextual awareness exposes women—especially in developing countries—to burnout and decreased productivity.  
+Despite these insights, most menstrual tracking applications only log cycle dates and physical symptoms. This lack of contextual awareness exposes women to burnout and decreased productivity.  
 This project proposes a data-driven predictive model capable of forecasting mood and energy, and offering personalized recommendations based on the hormonal phase, bridging the gap between simple tracking and proactive wellness planning.
 
 ## 3. Objectives

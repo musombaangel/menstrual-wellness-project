@@ -1,4 +1,4 @@
-# menstrual-wellness-project
+#  Menstrual-wellness-project
 # Predicting and Generating Wellness Needs for Women in Kenya Based on the Hormone Cycle
 
 ## 1. Overview

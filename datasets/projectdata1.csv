@@ -1,0 +1,109 @@
+cycle_length,week,ID,mood,days_from period,menstrual_symptoms,ovulation_symptoms,Abdominal cramps,Fatigue,Nausea,Cravings,Headaches,Aversions,Backaches,Bloating,Irritability,Mood swings,Diarrhea,Increased sex drive
+26,mood_one,1,3,2,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Cravings', 'Headaches', 'Aversions (Some foods you would usually eat become unpalatable)', 'Backaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,1,1,1,1,1,1,1,1,0,0
+30,mood_one,2,2,6,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Headaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,1,0,1,0,0,1,1,1,0,0
+5,mood_one,3,5,1,"['Fatigue', 'Nausea', 'Headaches', 'Aversions (Some foods you would usually eat become unpalatable)', 'Irritability', 'Mood swings', 'Diarrhea ']",,0,1,1,0,1,1,0,0,1,1,1,0
+28,mood_one,4,5,0,"['Fatigue', 'Backaches', 'Mood swings']",,0,1,0,0,0,0,1,0,0,1,0,0
+26.5,mood_one,5,6,5,['Cravings'],,0,0,0,1,0,0,0,0,0,0,0,0
+6,mood_one,6,3,0,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Light-headedness', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,1,0,0,0,1,1,1,0,0
+29.5,mood_one,7,7,1,"['Fatigue', 'Backaches']",,0,1,0,0,0,0,1,0,0,0,0,0
+23,mood_one,8,8,4,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Aversions (Some foods you would usually eat become unpalatable)', 'Bloating']",,1,1,1,0,0,1,0,1,0,0,0,0
+33,mood_one,9,7,3,"['Abdominal cramps', 'Fatigue', 'Backaches', 'Diarrhea']",,1,1,0,0,0,0,1,0,0,0,1,0
+30,mood_one,10,5,0,"['Fatigue', 'Cravings', 'Backaches', 'Bloating']",,0,1,0,1,0,0,1,1,0,0,0,0
+28,mood_one,11,5,0,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Bloating', 'Irritability', 'Mood swings']",,1,1,1,0,0,0,0,1,1,1,0,0
+30,mood_one,12,6,2,"['Cravings', 'Headaches']",,0,0,0,1,1,0,0,0,0,0,0,0
+28,mood_one,13,8,2,"['Fatigue', 'Cravings', 'Headaches']",,0,1,0,1,1,0,0,0,0,0,0,0
+28,mood_one,14,3,4,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Headaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,1,1,0,0,1,1,1,0,0
+27,mood_one,15,5,3,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Backaches', 'Bloating', 'Mood swings']",,1,1,1,0,0,0,1,1,0,1,0,0
+29,mood_one,16,3,5,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Headaches', 'Backaches', 'Light-headedness', 'Bloating']",,1,1,0,1,1,0,1,1,0,0,0,0
+59,mood_one,17,1,1,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Headaches', 'Aversions (Some foods you would usually eat become unpalatable)', 'Backaches', 'Light-headedness', 'Bloating', 'Irritability', 'Mood swings']",,1,1,1,0,1,1,1,1,1,1,0,0
+29.5,mood_one,18,7,1,"['Abdominal cramps', 'Fatigue']",,1,1,0,0,0,0,0,0,0,0,0,0
+30,mood_one,19,3,2,"['Abdominal cramps', 'Fatigue', 'Backaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,0,0,0,1,1,1,1,0,0
+7,mood_one,20,4,1,"['Fatigue', 'Bloating', 'Irritability']",,0,1,0,0,0,0,0,1,1,0,0,0
+29,mood_one,21,6,0,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Backaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,1,0,0,1,1,1,1,0,0
+26,mood_one,22,2,6,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Headaches', 'Aversions (Some foods you would usually eat become unpalatable)', 'Backaches', 'Light-headedness', 'Bloating', 'Irritability', 'Mood swings', 'Hip and leg aches']",,1,1,1,0,1,1,1,1,1,1,0,0
+28,mood_one,23,5,0,"['Abdominal cramps', 'Fatigue', 'Bloating', 'Diarrhea sometimes']",,1,1,0,0,0,0,0,1,0,0,1,0
+31.5,mood_one,24,8,5,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,1,0,0,0,1,1,1,0,0
+28,mood_one,25,6,7,"['Abdominal cramps', 'Fatigue', 'Cravings', 'Backaches', 'Bloating', 'Irritability', 'Mood swings']",,1,1,0,1,0,0,1,1,1,1,0,0
+80,mood_one,26,3,4,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Cravings', 'Headaches', 'Backaches', 'Light-headedness', 'Bloating', 'Irritability', 'Mood swings']",,1,1,1,1,1,0,1,1,1,1,0,0
+37.5,mood_one,27,5,7,"['Abdominal cramps', 'Fatigue', 'Nausea', 'Cravings', 'Backaches', 'Light-headedness', 'Bloating', 'Mood swings', 'High body temperature and sweating alot at night']",,1,1,1,1,0,0,1,1,0,1,0,0
+26,mood_two,1,5,10,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_two,2,7,15,,,0,0,0,0,0,0,0,0,0,0,0,0
+5,mood_two,3,7,3,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,4,7,14,,,0,0,0,0,0,0,0,0,0,0,0,0
+26.5,mood_two,5,10,9,,,0,0,0,0,0,0,0,0,0,0,0,0
+6,mood_two,6,7,3,,,0,0,0,0,0,0,0,0,0,0,0,0
+29.5,mood_two,7,8,10,,,0,0,0,0,0,0,0,0,0,0,0,0
+23,mood_two,8,10,9,,,0,0,0,0,0,0,0,0,0,0,0,0
+33,mood_two,9,6,11,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_two,10,8,15,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,11,4,12,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_two,12,6,11,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,13,10,11,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,14,5,13,,,0,0,0,0,0,0,0,0,0,0,0,0
+27,mood_two,15,8,9,,,0,0,0,0,0,0,0,0,0,0,0,0
+29,mood_two,16,7,13,,,0,0,0,0,0,0,0,0,0,0,0,0
+59,mood_two,17,1,20,,,0,0,0,0,0,0,0,0,0,0,0,0
+29.5,mood_two,18,8,14,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_two,19,5,15,,,0,0,0,0,0,0,0,0,0,0,0,0
+7,mood_two,20,6,3,,,0,0,0,0,0,0,0,0,0,0,0,0
+29,mood_two,21,4,13,,,0,0,0,0,0,0,0,0,0,0,0,0
+26,mood_two,22,7,12,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,23,6,8,,,0,0,0,0,0,0,0,0,0,0,0,0
+31.5,mood_two,24,10,13,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_two,25,4,14,,,0,0,0,0,0,0,0,0,0,0,0,0
+80,mood_two,26,6,33,,,0,0,0,0,0,0,0,0,0,0,0,0
+37.5,mood_two,27,7,14,,,0,0,0,0,0,0,0,0,0,0,0,0
+26,mood_three,1,8,19,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+30,mood_three,2,9,20,,['Abdominal cramps'],1,0,0,0,0,0,0,0,0,0,0,1
+5,mood_three,3,10,4,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+28,mood_three,4,7,17,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+26.5,mood_three,5,8,19,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+6,mood_three,6,8,4,,['Abdominal cramps'],1,0,0,0,0,0,0,0,0,0,0,1
+29.5,mood_three,7,9,17,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+23,mood_three,8,10,15,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+33,mood_three,9,6,23,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_three,10,9,17,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+28,mood_three,11,5,18,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_three,12,8,18,,['Appetite changes'],0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_three,13,7,19,,"['Abdominal cramps', 'Appetite changes']",1,0,0,0,0,0,0,0,0,0,0,1
+28,mood_three,14,6,21,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+27,mood_three,15,9,19,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+29,mood_three,16,8,19,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+59,mood_three,17,1,40,,['Abdominal cramps'],1,0,0,0,0,0,0,0,0,0,0,1
+29.5,mood_three,18,10,16,,['Abdominal cramps'],1,0,0,0,0,0,0,0,0,0,0,1
+30,mood_three,19,10,16,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+7,mood_three,20,6,5,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+29,mood_three,21,2,16,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+26,mood_three,22,8,14,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+28,mood_three,23,8,18,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+31.5,mood_three,24,8,22,,['Increased sex drive'],0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_three,25,6,21,,"['Abdominal cramps', 'Appetite changes', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+80,mood_three,26,6,56,,"['Appetite changes', 'Increased sex drive']",0,0,0,0,0,0,0,0,0,0,0,0
+37.5,mood_three,27,8,22,,"['Abdominal cramps', 'Increased sex drive']",1,0,0,0,0,0,0,0,0,0,0,1
+26,mood_four,1,2,24,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_four,2,8,30,,,0,0,0,0,0,0,0,0,0,0,0,0
+5,mood_four,3,3,5,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,4,4,27,,,0,0,0,0,0,0,0,0,0,0,0,0
+26.5,mood_four,5,4,22,,,0,0,0,0,0,0,0,0,0,0,0,0
+6,mood_four,6,5,6,,,0,0,0,0,0,0,0,0,0,0,0,0
+29.5,mood_four,7,6,29,,,0,0,0,0,0,0,0,0,0,0,0,0
+23,mood_four,8,8,20,,,0,0,0,0,0,0,0,0,0,0,0,0
+33,mood_four,9,1,32,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_four,10,2,24,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,11,4,25,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_four,12,6,28,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,13,10,28,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,14,8,22,,,0,0,0,0,0,0,0,0,0,0,0,0
+27,mood_four,15,4,22,,,0,0,0,0,0,0,0,0,0,0,0,0
+29,mood_four,16,2,25,,,0,0,0,0,0,0,0,0,0,0,0,0
+59,mood_four,17,1,57,,,0,0,0,0,0,0,0,0,0,0,0,0
+29.5,mood_four,18,8,27,,,0,0,0,0,0,0,0,0,0,0,0,0
+30,mood_four,19,6,29,,,0,0,0,0,0,0,0,0,0,0,0,0
+7,mood_four,20,2,7,,,0,0,0,0,0,0,0,0,0,0,0,0
+29,mood_four,21,2,24,,,0,0,0,0,0,0,0,0,0,0,0,0
+26,mood_four,22,3,26,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,23,5,24,,,0,0,0,0,0,0,0,0,0,0,0,0
+31.5,mood_four,24,4,28,,,0,0,0,0,0,0,0,0,0,0,0,0
+28,mood_four,25,8,24,,,0,0,0,0,0,0,0,0,0,0,0,0
+80,mood_four,26,3,67,,,0,0,0,0,0,0,0,0,0,0,0,0
+37.5,mood_four,27,4,33,,,0,0,0,0,0,0,0,0,0,0,0,0

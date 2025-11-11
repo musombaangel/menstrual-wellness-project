@@ -1,0 +1,506 @@
+ID,Cycle length,Phase,Mood,Workout,Age,Sleep
+1,26,Menstrual,3,5–7 hours,,
+2,30 days,Menstrual,2,Less than 2 hours,,
+3,28,Menstrual,5,0 hours (I don’t work out),,
+4,28 days,Menstrual,5,Less than 2 hours,,
+5,25-28 days,Menstrual,6,0 hours (I don’t work out),,
+6,6 days,Menstrual,3,Less than 2 hours,,
+7,28 to 31 days ,Menstrual,7,5–7 hours,,
+8,23,Menstrual,8,0 hours (I don’t work out),,
+9,"Irregular, so 21-45 days",Menstrual,7,0 hours (I don’t work out),,
+10,30,Menstrual,5,2–4 hours,,
+11,28,Menstrual,5,0 hours (I don’t work out),,
+12,30,Menstrual,6,5–7 hours,,
+13,28 days,Menstrual,8,Less than 2 hours,,
+14,28,Menstrual,3,0 hours (I don’t work out),,
+15,26-28days,Menstrual,5,2–4 hours,,
+16,28-30 days ,Menstrual,3,5–7 hours,,
+17,28/90/longer,Menstrual,1,0 hours (I don’t work out),,
+18,29-30,Menstrual,7,2–4 hours,,
+19,30 days,Menstrual,3,2–4 hours,,
+20,7,Menstrual,4,2–4 hours,,
+21,28-30 days,Menstrual,6,0 hours (I don’t work out),,
+22,26 days,Menstrual,2,0 hours (I don’t work out),,
+23,30,Menstrual,5,2–4 hours,,
+24,28-35days,Menstrual,8,8–10 hours,,
+25,28 days,Menstrual,6,2–4 hours,,
+26,80days,Menstrual,3,Less than 2 hours,,
+27,Around 35 to 40 days,Menstrual,5,0 hours (I don’t work out),,
+28,3,Menstrual,4,2–4 hours,30,
+29,I’m not sure,Menstrual,5,2–4 hours,12-20,4-5 hours
+30,23 days,Menstrual,4,0 hours (I don’t work out),12-20,6-7 hours
+31,28 days ,Menstrual,5,Less than 2 hours,21-30,6-7 hours
+32,28 days,Menstrual,3,Less than 2 hours,21-30,6-7 hours
+33,28,Menstrual,4,5–7 hours,21-30,8-9 hours
+34,25 days,Menstrual,4,2–4 hours,21-30,10+ hours
+35,28,Menstrual,8,0 hours (I don’t work out),21-30,8-9 hours
+36,23 days,Menstrual,4,8–10 hours,21-30,8-9 hours
+37,28,Menstrual,5,More than 10 hours,21-30,6-7 hours
+38,Around 30 days,Menstrual,8,Less than 2 hours,12-20,8-9 hours
+39,31-35,Menstrual,4,0 hours (I don’t work out),21-30,6-7 hours
+40,32 days,Menstrual,3,2–4 hours,21-30,6-7 hours
+41,4 days ,Menstrual,5,2–4 hours,21-30,4-5 hours
+42,22days,Menstrual,7,Less than 2 hours,21-30,8-9 hours
+43,38-50 days (crazy ik),Menstrual,3,0 hours (I don’t work out),21-30,6-7 hours
+44,29,Menstrual,4,2–4 hours,21-30,6-7 hours
+45,29,Menstrual,4,5–7 hours,21-30,6-7 hours
+46,28 days,Menstrual,4,Less than 2 hours,21-30,8-9 hours
+47,28,Menstrual,3,Less than 2 hours,21-30,8-9 hours
+48,27 to 29,Menstrual,3,0 hours (I don’t work out),21-30,8-9 hours
+49,3 weeks to 1 month,Menstrual,4,2–4 hours,21-30,4-5 hours
+50,28,Menstrual,3,2–4 hours,21-30,8-9 hours
+51,30,Menstrual,6,5–7 hours,21-30,6-7 hours
+52,28,Menstrual,5,0 hours (I don’t work out),21-30,6-7 hours
+53,29 days,Menstrual,1,0 hours (I don’t work out),12-20,4-5 hours
+54,About 36days,Menstrual,3,2–4 hours,21-30,6-7 hours
+55,5 days,Menstrual,3,2–4 hours,21-30,6-7 hours
+56,28,Menstrual,8,2–4 hours,21-30,6-7 hours
+57,25 days,Menstrual,3,Less than 2 hours,12-20,4-5 hours
+58,26,Menstrual,4,0 hours (I don’t work out),21-30,6-7 hours
+59,20-30 days,Menstrual,3,Less than 2 hours,21-30,6-7 hours
+60,5days,Menstrual,3,0 hours (I don’t work out),21-30,6-7 hours
+61,29 days,Menstrual,6,5–7 hours,21-30,Less than 4 hours
+62,21-25days,Menstrual,4,8–10 hours,21-30,6-7 hours
+63,27 days ,Menstrual,1,0 hours (I don’t work out),12-20,6-7 hours
+64,28 days,Menstrual,4,Less than 2 hours,21-30,8-9 hours
+65,,Menstrual,,,21-30,
+66,26 days,Menstrual,1,Less than 2 hours,21-30,4-5 hours
+67,Ave 28 days,Menstrual,5,5–7 hours,12-20,6-7 hours
+68,30 days ,Menstrual,6,2–4 hours,21-30,6-7 hours
+69,4 days,Menstrual,4,0 hours (I don’t work out),21-30,6-7 hours
+70,28 days,Menstrual,5,2–4 hours,21-30,8-9 hours
+71,28 days,Menstrual,3,0 hours (I don’t work out),21-30,8-9 hours
+72,25-27 days ,Menstrual,4,2–4 hours,21-30,4-5 hours
+73,29 days,Menstrual,4,5–7 hours,21-30,6-7 hours
+74,27 days,Menstrual,4,Less than 2 hours,21-30,8-9 hours
+75,31,Menstrual,5,0 hours (I don’t work out),21-30,8-9 hours
+76,27 days,Menstrual,8,0 hours (I don’t work out),21-30,6-7 hours
+77,21-45 days (irregular),Menstrual,5,0 hours (I don’t work out),21-30,6-7 hours
+78,28 days,Menstrual,5,5–7 hours,21-30,6-7 hours
+79,21,Menstrual,4,Less than 2 hours,21-30,6-7 hours
+80,Its become a bit irregular ranging frim 28 to 35 days,Menstrual,4,Less than 2 hours,21-30,6-7 hours
+81,"it changes every cycle,  currently at 49 days",Menstrual,6,0 hours (I don’t work out),21-30,6-7 hours
+82,28 days,Menstrual,5,0 hours (I don’t work out),21-30,6-7 hours
+83,5 days,Menstrual,3,Less than 2 hours,21-30,6-7 hours
+84,26 days,Menstrual,2,Less than 2 hours,12-20,6-7 hours
+85,3-4 days,Menstrual,2,Less than 2 hours,21-30,6-7 hours
+86,28 days,Menstrual,7,0 hours (I don’t work out),12-20,6-7 hours
+87,35,Menstrual,4,2–4 hours,21-30,6-7 hours
+88,28,Menstrual,2,0 hours (I don’t work out),21-30,8-9 hours
+89,28 days,Menstrual,10,0 hours (I don’t work out),21-30,8-9 hours
+90,4 days,Menstrual,10,0 hours (I don’t work out),21-30,8-9 hours
+91,25 days ,Menstrual,5,Less than 2 hours,21-30,Less than 4 hours
+92,3-4days,Menstrual,2,0 hours (I don’t work out),12-20,6-7 hours
+93,26 to 39 days,Menstrual,1,Less than 2 hours,21-30,6-7 hours
+94,26,Menstrual,5,Less than 2 hours,21-30,6-7 hours
+95,3-4 days,Menstrual,5,2–4 hours,21-30,6-7 hours
+96,27,Menstrual,3,5–7 hours,12-20,6-7 hours
+97,6 days,Menstrual,4,Less than 2 hours,12-20,4-5 hours
+98,28days,Menstrual,3,2–4 hours,21-30,8-9 hours
+99,30days,Menstrual,4,2–4 hours,21-30,6-7 hours
+100,28,Menstrual,4,Less than 2 hours,21-30,6-7 hours
+101,30 days,Menstrual,2,5–7 hours,21-30,6-7 hours
+1,26,Follicular,5,5–7 hours,,
+2,30 days,Follicular,7,Less than 2 hours,,
+3,28,Follicular,7,0 hours (I don’t work out),,
+4,28 days,Follicular,7,Less than 2 hours,,
+5,25-28 days,Follicular,10,0 hours (I don’t work out),,
+6,6 days,Follicular,7,Less than 2 hours,,
+7,28 to 31 days ,Follicular,8,5–7 hours,,
+8,23,Follicular,10,0 hours (I don’t work out),,
+9,"Irregular, so 21-45 days",Follicular,6,0 hours (I don’t work out),,
+10,30,Follicular,8,2–4 hours,,
+11,28,Follicular,4,0 hours (I don’t work out),,
+12,30,Follicular,6,5–7 hours,,
+13,28 days,Follicular,10,Less than 2 hours,,
+14,28,Follicular,5,0 hours (I don’t work out),,
+15,26-28days,Follicular,8,2–4 hours,,
+16,28-30 days ,Follicular,7,5–7 hours,,
+17,28/90/longer,Follicular,1,0 hours (I don’t work out),,
+18,29-30,Follicular,8,2–4 hours,,
+19,30 days,Follicular,5,2–4 hours,,
+20,7,Follicular,6,2–4 hours,,
+21,28-30 days,Follicular,4,0 hours (I don’t work out),,
+22,26 days,Follicular,7,0 hours (I don’t work out),,
+23,30,Follicular,6,2–4 hours,,
+24,28-35days,Follicular,10,8–10 hours,,
+25,28 days,Follicular,4,2–4 hours,,
+26,80days,Follicular,6,Less than 2 hours,,
+27,Around 35 to 40 days,Follicular,7,0 hours (I don’t work out),,
+28,3,Follicular,7,2–4 hours,30,
+29,I’m not sure,Follicular,6,2–4 hours,12-20,4-5 hours
+30,23 days,Follicular,8,0 hours (I don’t work out),12-20,6-7 hours
+31,28 days ,Follicular,9,Less than 2 hours,21-30,6-7 hours
+32,28 days,Follicular,5,Less than 2 hours,21-30,6-7 hours
+33,28,Follicular,7,5–7 hours,21-30,8-9 hours
+34,25 days,Follicular,10,2–4 hours,21-30,10+ hours
+35,28,Follicular,8,0 hours (I don’t work out),21-30,8-9 hours
+36,23 days,Follicular,7,8–10 hours,21-30,8-9 hours
+37,28,Follicular,7,More than 10 hours,21-30,6-7 hours
+38,Around 30 days,Follicular,7,Less than 2 hours,12-20,8-9 hours
+39,31-35,Follicular,8,0 hours (I don’t work out),21-30,6-7 hours
+40,32 days,Follicular,8,2–4 hours,21-30,6-7 hours
+41,4 days ,Follicular,7,2–4 hours,21-30,4-5 hours
+42,22days,Follicular,6,Less than 2 hours,21-30,8-9 hours
+43,38-50 days (crazy ik),Follicular,6,0 hours (I don’t work out),21-30,6-7 hours
+44,29,Follicular,9,2–4 hours,21-30,6-7 hours
+45,29,Follicular,8,5–7 hours,21-30,6-7 hours
+46,28 days,Follicular,7,Less than 2 hours,21-30,8-9 hours
+47,28,Follicular,9,Less than 2 hours,21-30,8-9 hours
+48,27 to 29,Follicular,7,0 hours (I don’t work out),21-30,8-9 hours
+49,3 weeks to 1 month,Follicular,5,2–4 hours,21-30,4-5 hours
+50,28,Follicular,7,2–4 hours,21-30,8-9 hours
+51,30,Follicular,10,5–7 hours,21-30,6-7 hours
+52,28,Follicular,10,0 hours (I don’t work out),21-30,6-7 hours
+53,29 days,Follicular,8,0 hours (I don’t work out),12-20,4-5 hours
+54,About 36days,Follicular,6,2–4 hours,21-30,6-7 hours
+55,5 days,Follicular,4,2–4 hours,21-30,6-7 hours
+56,28,Follicular,5,2–4 hours,21-30,6-7 hours
+57,25 days,Follicular,9,Less than 2 hours,12-20,4-5 hours
+58,26,Follicular,6,0 hours (I don’t work out),21-30,6-7 hours
+59,20-30 days,Follicular,7,Less than 2 hours,21-30,6-7 hours
+60,5days,Follicular,3,0 hours (I don’t work out),21-30,6-7 hours
+61,29 days,Follicular,3,5–7 hours,21-30,Less than 4 hours
+62,21-25days,Follicular,8,8–10 hours,21-30,6-7 hours
+63,27 days ,Follicular,10,0 hours (I don’t work out),12-20,6-7 hours
+64,28 days,Follicular,6,Less than 2 hours,21-30,8-9 hours
+65,,Follicular,,,21-30,
+66,26 days,Follicular,8,Less than 2 hours,21-30,4-5 hours
+67,Ave 28 days,Follicular,7,5–7 hours,12-20,6-7 hours
+68,30 days ,Follicular,4,2–4 hours,21-30,6-7 hours
+69,4 days,Follicular,9,0 hours (I don’t work out),21-30,6-7 hours
+70,28 days,Follicular,9,2–4 hours,21-30,8-9 hours
+71,28 days,Follicular,7,0 hours (I don’t work out),21-30,8-9 hours
+72,25-27 days ,Follicular,5,2–4 hours,21-30,4-5 hours
+73,29 days,Follicular,8,5–7 hours,21-30,6-7 hours
+74,27 days,Follicular,6,Less than 2 hours,21-30,8-9 hours
+75,31,Follicular,5,0 hours (I don’t work out),21-30,8-9 hours
+76,27 days,Follicular,5,0 hours (I don’t work out),21-30,6-7 hours
+77,21-45 days (irregular),Follicular,9,0 hours (I don’t work out),21-30,6-7 hours
+78,28 days,Follicular,8,5–7 hours,21-30,6-7 hours
+79,21,Follicular,6,Less than 2 hours,21-30,6-7 hours
+80,Its become a bit irregular ranging frim 28 to 35 days,Follicular,8,Less than 2 hours,21-30,6-7 hours
+81,"it changes every cycle,  currently at 49 days",Follicular,7,0 hours (I don’t work out),21-30,6-7 hours
+82,28 days,Follicular,7,0 hours (I don’t work out),21-30,6-7 hours
+83,5 days,Follicular,6,Less than 2 hours,21-30,6-7 hours
+84,26 days,Follicular,7,Less than 2 hours,12-20,6-7 hours
+85,3-4 days,Follicular,7,Less than 2 hours,21-30,6-7 hours
+86,28 days,Follicular,7,0 hours (I don’t work out),12-20,6-7 hours
+87,35,Follicular,5,2–4 hours,21-30,6-7 hours
+88,28,Follicular,7,0 hours (I don’t work out),21-30,8-9 hours
+89,28 days,Follicular,10,0 hours (I don’t work out),21-30,8-9 hours
+90,4 days,Follicular,2,0 hours (I don’t work out),21-30,8-9 hours
+91,25 days ,Follicular,9,Less than 2 hours,21-30,Less than 4 hours
+92,3-4days,Follicular,6,0 hours (I don’t work out),12-20,6-7 hours
+93,26 to 39 days,Follicular,5,Less than 2 hours,21-30,6-7 hours
+94,26,Follicular,8,Less than 2 hours,21-30,6-7 hours
+95,3-4 days,Follicular,5,2–4 hours,21-30,6-7 hours
+96,27,Follicular,6,5–7 hours,12-20,6-7 hours
+97,6 days,Follicular,8,Less than 2 hours,12-20,4-5 hours
+98,28days,Follicular,7,2–4 hours,21-30,8-9 hours
+99,30days,Follicular,8,2–4 hours,21-30,6-7 hours
+100,28,Follicular,6,Less than 2 hours,21-30,6-7 hours
+101,30 days,Follicular,8,5–7 hours,21-30,6-7 hours
+1,26,Ovulation,8,5–7 hours,,
+2,30 days,Ovulation,9,Less than 2 hours,,
+3,28,Ovulation,10,0 hours (I don’t work out),,
+4,28 days,Ovulation,7,Less than 2 hours,,
+5,25-28 days,Ovulation,8,0 hours (I don’t work out),,
+6,6 days,Ovulation,8,Less than 2 hours,,
+7,28 to 31 days ,Ovulation,9,5–7 hours,,
+8,23,Ovulation,10,0 hours (I don’t work out),,
+9,"Irregular, so 21-45 days",Ovulation,6,0 hours (I don’t work out),,
+10,30,Ovulation,9,2–4 hours,,
+11,28,Ovulation,5,0 hours (I don’t work out),,
+12,30,Ovulation,8,5–7 hours,,
+13,28 days,Ovulation,7,Less than 2 hours,,
+14,28,Ovulation,6,0 hours (I don’t work out),,
+15,26-28days,Ovulation,9,2–4 hours,,
+16,28-30 days ,Ovulation,8,5–7 hours,,
+17,28/90/longer,Ovulation,1,0 hours (I don’t work out),,
+18,29-30,Ovulation,10,2–4 hours,,
+19,30 days,Ovulation,10,2–4 hours,,
+20,7,Ovulation,6,2–4 hours,,
+21,28-30 days,Ovulation,2,0 hours (I don’t work out),,
+22,26 days,Ovulation,8,0 hours (I don’t work out),,
+23,30,Ovulation,8,2–4 hours,,
+24,28-35days,Ovulation,8,8–10 hours,,
+25,28 days,Ovulation,6,2–4 hours,,
+26,80days,Ovulation,6,Less than 2 hours,,
+27,Around 35 to 40 days,Ovulation,8,0 hours (I don’t work out),,
+28,3,Ovulation,6,2–4 hours,30,
+29,I’m not sure,Ovulation,7,2–4 hours,12-20,4-5 hours
+30,23 days,Ovulation,8,0 hours (I don’t work out),12-20,6-7 hours
+31,28 days ,Ovulation,9,Less than 2 hours,21-30,6-7 hours
+32,28 days,Ovulation,5,Less than 2 hours,21-30,6-7 hours
+33,28,Ovulation,4,5–7 hours,21-30,8-9 hours
+34,25 days,Ovulation,5,2–4 hours,21-30,10+ hours
+35,28,Ovulation,5,0 hours (I don’t work out),21-30,8-9 hours
+36,23 days,Ovulation,9,8–10 hours,21-30,8-9 hours
+37,28,Ovulation,9,More than 10 hours,21-30,6-7 hours
+38,Around 30 days,Ovulation,10,Less than 2 hours,12-20,8-9 hours
+39,31-35,Ovulation,10,0 hours (I don’t work out),21-30,6-7 hours
+40,32 days,Ovulation,9,2–4 hours,21-30,6-7 hours
+41,4 days ,Ovulation,9,2–4 hours,21-30,4-5 hours
+42,22days,Ovulation,7,Less than 2 hours,21-30,8-9 hours
+43,38-50 days (crazy ik),Ovulation,9,0 hours (I don’t work out),21-30,6-7 hours
+44,29,Ovulation,9,2–4 hours,21-30,6-7 hours
+45,29,Ovulation,9,5–7 hours,21-30,6-7 hours
+46,28 days,Ovulation,3,Less than 2 hours,21-30,8-9 hours
+47,28,Ovulation,6,Less than 2 hours,21-30,8-9 hours
+48,27 to 29,Ovulation,10,0 hours (I don’t work out),21-30,8-9 hours
+49,3 weeks to 1 month,Ovulation,8,2–4 hours,21-30,4-5 hours
+50,28,Ovulation,10,2–4 hours,21-30,8-9 hours
+51,30,Ovulation,8,5–7 hours,21-30,6-7 hours
+52,28,Ovulation,10,0 hours (I don’t work out),21-30,6-7 hours
+53,29 days,Ovulation,10,0 hours (I don’t work out),12-20,4-5 hours
+54,About 36days,Ovulation,8,2–4 hours,21-30,6-7 hours
+55,5 days,Ovulation,8,2–4 hours,21-30,6-7 hours
+56,28,Ovulation,10,2–4 hours,21-30,6-7 hours
+57,25 days,Ovulation,5,Less than 2 hours,12-20,4-5 hours
+58,26,Ovulation,8,0 hours (I don’t work out),21-30,6-7 hours
+59,20-30 days,Ovulation,10,Less than 2 hours,21-30,6-7 hours
+60,5days,Ovulation,6,0 hours (I don’t work out),21-30,6-7 hours
+61,29 days,Ovulation,4,5–7 hours,21-30,Less than 4 hours
+62,21-25days,Ovulation,10,8–10 hours,21-30,6-7 hours
+63,27 days ,Ovulation,10,0 hours (I don’t work out),12-20,6-7 hours
+64,28 days,Ovulation,8,Less than 2 hours,21-30,8-9 hours
+65,,Ovulation,,,21-30,
+66,26 days,Ovulation,6,Less than 2 hours,21-30,4-5 hours
+67,Ave 28 days,Ovulation,9,5–7 hours,12-20,6-7 hours
+68,30 days ,Ovulation,9,2–4 hours,21-30,6-7 hours
+69,4 days,Ovulation,5,0 hours (I don’t work out),21-30,6-7 hours
+70,28 days,Ovulation,10,2–4 hours,21-30,8-9 hours
+71,28 days,Ovulation,10,0 hours (I don’t work out),21-30,8-9 hours
+72,25-27 days ,Ovulation,6,2–4 hours,21-30,4-5 hours
+73,29 days,Ovulation,7,5–7 hours,21-30,6-7 hours
+74,27 days,Ovulation,8,Less than 2 hours,21-30,8-9 hours
+75,31,Ovulation,5,0 hours (I don’t work out),21-30,8-9 hours
+76,27 days,Ovulation,9,0 hours (I don’t work out),21-30,6-7 hours
+77,21-45 days (irregular),Ovulation,7,0 hours (I don’t work out),21-30,6-7 hours
+78,28 days,Ovulation,9,5–7 hours,21-30,6-7 hours
+79,21,Ovulation,7,Less than 2 hours,21-30,6-7 hours
+80,Its become a bit irregular ranging frim 28 to 35 days,Ovulation,9,Less than 2 hours,21-30,6-7 hours
+81,"it changes every cycle,  currently at 49 days",Ovulation,9,0 hours (I don’t work out),21-30,6-7 hours
+82,28 days,Ovulation,10,0 hours (I don’t work out),21-30,6-7 hours
+83,5 days,Ovulation,5,Less than 2 hours,21-30,6-7 hours
+84,26 days,Ovulation,7,Less than 2 hours,12-20,6-7 hours
+85,3-4 days,Ovulation,8,Less than 2 hours,21-30,6-7 hours
+86,28 days,Ovulation,5,0 hours (I don’t work out),12-20,6-7 hours
+87,35,Ovulation,5,2–4 hours,21-30,6-7 hours
+88,28,Ovulation,8,0 hours (I don’t work out),21-30,8-9 hours
+89,28 days,Ovulation,10,0 hours (I don’t work out),21-30,8-9 hours
+90,4 days,Ovulation,10,0 hours (I don’t work out),21-30,8-9 hours
+91,25 days ,Ovulation,9,Less than 2 hours,21-30,Less than 4 hours
+92,3-4days,Ovulation,5,0 hours (I don’t work out),12-20,6-7 hours
+93,26 to 39 days,Ovulation,9,Less than 2 hours,21-30,6-7 hours
+94,26,Ovulation,3,Less than 2 hours,21-30,6-7 hours
+95,3-4 days,Ovulation,9,2–4 hours,21-30,6-7 hours
+96,27,Ovulation,9,5–7 hours,12-20,6-7 hours
+97,6 days,Ovulation,5,Less than 2 hours,12-20,4-5 hours
+98,28days,Ovulation,9,2–4 hours,21-30,8-9 hours
+99,30days,Ovulation,5,2–4 hours,21-30,6-7 hours
+100,28,Ovulation,4,Less than 2 hours,21-30,6-7 hours
+101,30 days,Ovulation,5,5–7 hours,21-30,6-7 hours
+1,26,Luteal,2,5–7 hours,,
+2,30 days,Luteal,8,Less than 2 hours,,
+3,28,Luteal,3,0 hours (I don’t work out),,
+4,28 days,Luteal,4,Less than 2 hours,,
+5,25-28 days,Luteal,4,0 hours (I don’t work out),,
+6,6 days,Luteal,5,Less than 2 hours,,
+7,28 to 31 days ,Luteal,6,5–7 hours,,
+8,23,Luteal,8,0 hours (I don’t work out),,
+9,"Irregular, so 21-45 days",Luteal,1,0 hours (I don’t work out),,
+10,30,Luteal,2,2–4 hours,,
+11,28,Luteal,4,0 hours (I don’t work out),,
+12,30,Luteal,6,5–7 hours,,
+13,28 days,Luteal,10,Less than 2 hours,,
+14,28,Luteal,8,0 hours (I don’t work out),,
+15,26-28days,Luteal,4,2–4 hours,,
+16,28-30 days ,Luteal,2,5–7 hours,,
+17,28/90/longer,Luteal,1,0 hours (I don’t work out),,
+18,29-30,Luteal,8,2–4 hours,,
+19,30 days,Luteal,6,2–4 hours,,
+20,7,Luteal,2,2–4 hours,,
+21,28-30 days,Luteal,2,0 hours (I don’t work out),,
+22,26 days,Luteal,3,0 hours (I don’t work out),,
+23,30,Luteal,5,2–4 hours,,
+24,28-35days,Luteal,4,8–10 hours,,
+25,28 days,Luteal,8,2–4 hours,,
+26,80days,Luteal,3,Less than 2 hours,,
+27,Around 35 to 40 days,Luteal,4,0 hours (I don’t work out),,
+28,3,Luteal,6,2–4 hours,30,
+29,I’m not sure,Luteal,4,2–4 hours,12-20,4-5 hours
+30,23 days,Luteal,3,0 hours (I don’t work out),12-20,6-7 hours
+31,28 days ,Luteal,3,Less than 2 hours,21-30,6-7 hours
+32,28 days,Luteal,3,Less than 2 hours,21-30,6-7 hours
+33,28,Luteal,3,5–7 hours,21-30,8-9 hours
+34,25 days,Luteal,4,2–4 hours,21-30,10+ hours
+35,28,Luteal,1,0 hours (I don’t work out),21-30,8-9 hours
+36,23 days,Luteal,3,8–10 hours,21-30,8-9 hours
+37,28,Luteal,1,More than 10 hours,21-30,6-7 hours
+38,Around 30 days,Luteal,9,Less than 2 hours,12-20,8-9 hours
+39,31-35,Luteal,1,0 hours (I don’t work out),21-30,6-7 hours
+40,32 days,Luteal,1,2–4 hours,21-30,6-7 hours
+41,4 days ,Luteal,9,2–4 hours,21-30,4-5 hours
+42,22days,Luteal,10,Less than 2 hours,21-30,8-9 hours
+43,38-50 days (crazy ik),Luteal,2,0 hours (I don’t work out),21-30,6-7 hours
+44,29,Luteal,5,2–4 hours,21-30,6-7 hours
+45,29,Luteal,1,5–7 hours,21-30,6-7 hours
+46,28 days,Luteal,4,Less than 2 hours,21-30,8-9 hours
+47,28,Luteal,1,Less than 2 hours,21-30,8-9 hours
+48,27 to 29,Luteal,6,0 hours (I don’t work out),21-30,8-9 hours
+49,3 weeks to 1 month,Luteal,3,2–4 hours,21-30,4-5 hours
+50,28,Luteal,1,2–4 hours,21-30,8-9 hours
+51,30,Luteal,1,5–7 hours,21-30,6-7 hours
+52,28,Luteal,4,0 hours (I don’t work out),21-30,6-7 hours
+53,29 days,Luteal,6,0 hours (I don’t work out),12-20,4-5 hours
+54,About 36days,Luteal,5,2–4 hours,21-30,6-7 hours
+55,5 days,Luteal,1,2–4 hours,21-30,6-7 hours
+56,28,Luteal,1,2–4 hours,21-30,6-7 hours
+57,25 days,Luteal,6,Less than 2 hours,12-20,4-5 hours
+58,26,Luteal,6,0 hours (I don’t work out),21-30,6-7 hours
+59,20-30 days,Luteal,10,Less than 2 hours,21-30,6-7 hours
+60,5days,Luteal,7,0 hours (I don’t work out),21-30,6-7 hours
+61,29 days,Luteal,7,5–7 hours,21-30,Less than 4 hours
+62,21-25days,Luteal,3,8–10 hours,21-30,6-7 hours
+63,27 days ,Luteal,1,0 hours (I don’t work out),12-20,6-7 hours
+64,28 days,Luteal,2,Less than 2 hours,21-30,8-9 hours
+65,,Luteal,,,21-30,
+66,26 days,Luteal,1,Less than 2 hours,21-30,4-5 hours
+67,Ave 28 days,Luteal,4,5–7 hours,12-20,6-7 hours
+68,30 days ,Luteal,2,2–4 hours,21-30,6-7 hours
+69,4 days,Luteal,4,0 hours (I don’t work out),21-30,6-7 hours
+70,28 days,Luteal,4,2–4 hours,21-30,8-9 hours
+71,28 days,Luteal,9,0 hours (I don’t work out),21-30,8-9 hours
+72,25-27 days ,Luteal,1,2–4 hours,21-30,4-5 hours
+73,29 days,Luteal,5,5–7 hours,21-30,6-7 hours
+74,27 days,Luteal,6,Less than 2 hours,21-30,8-9 hours
+75,31,Luteal,2,0 hours (I don’t work out),21-30,8-9 hours
+76,27 days,Luteal,1,0 hours (I don’t work out),21-30,6-7 hours
+77,21-45 days (irregular),Luteal,1,0 hours (I don’t work out),21-30,6-7 hours
+78,28 days,Luteal,4,5–7 hours,21-30,6-7 hours
+79,21,Luteal,2,Less than 2 hours,21-30,6-7 hours
+80,Its become a bit irregular ranging frim 28 to 35 days,Luteal,6,Less than 2 hours,21-30,6-7 hours
+81,"it changes every cycle,  currently at 49 days",Luteal,4,0 hours (I don’t work out),21-30,6-7 hours
+82,28 days,Luteal,3,0 hours (I don’t work out),21-30,6-7 hours
+83,5 days,Luteal,5,Less than 2 hours,21-30,6-7 hours
+84,26 days,Luteal,3,Less than 2 hours,12-20,6-7 hours
+85,3-4 days,Luteal,7,Less than 2 hours,21-30,6-7 hours
+86,28 days,Luteal,5,0 hours (I don’t work out),12-20,6-7 hours
+87,35,Luteal,1,2–4 hours,21-30,6-7 hours
+88,28,Luteal,5,0 hours (I don’t work out),21-30,8-9 hours
+89,28 days,Luteal,1,0 hours (I don’t work out),21-30,8-9 hours
+90,4 days,Luteal,1,0 hours (I don’t work out),21-30,8-9 hours
+91,25 days ,Luteal,2,Less than 2 hours,21-30,Less than 4 hours
+92,3-4days,Luteal,1,0 hours (I don’t work out),12-20,6-7 hours
+93,26 to 39 days,Luteal,1,Less than 2 hours,21-30,6-7 hours
+94,26,Luteal,6,Less than 2 hours,21-30,6-7 hours
+95,3-4 days,Luteal,4,2–4 hours,21-30,6-7 hours
+96,27,Luteal,1,5–7 hours,12-20,6-7 hours
+97,6 days,Luteal,8,Less than 2 hours,12-20,4-5 hours
+98,28days,Luteal,4,2–4 hours,21-30,8-9 hours
+99,30days,Luteal,2,2–4 hours,21-30,6-7 hours
+100,28,Luteal,7,Less than 2 hours,21-30,6-7 hours
+101,30 days,Luteal,2,5–7 hours,21-30,6-7 hours
+1,26,Ovulation,5,5–7 hours,,
+2,30 days,Menstrual,3,Less than 2 hours,,
+3,28,Menstrual,3,0 hours (I don’t work out),,
+4,28 days,Follicular,6,Less than 2 hours,,
+5,25-28 days,Ovulation,5,0 hours (I don’t work out),,
+6,6 days,Follicular,4,Less than 2 hours,,
+7,28 to 31 days ,Menstrual,7,5–7 hours,,
+8,23,Follicular,8,0 hours (I don’t work out),,
+9,"Irregular, so 21-45 days",Follicular,2,0 hours (I don’t work out),,
+10,30,Menstrual,7,2–4 hours,,
+11,28,Menstrual,2,0 hours (I don’t work out),,
+12,30,Follicular,5,5–7 hours,,
+13,28 days,Menstrual,7,Less than 2 hours,,
+14,28,Follicular,7,0 hours (I don’t work out),,
+15,26-28days,Ovulation,4,2–4 hours,,
+16,28-30 days ,Menstrual,1,5–7 hours,,
+17,28/90/longer,Menstrual,3,0 hours (I don’t work out),,
+18,29-30,Menstrual,10,2–4 hours,,
+19,30 days,Menstrual,7,2–4 hours,,
+20,7,Menstrual,4,2–4 hours,,
+21,28-30 days,Menstrual,6,0 hours (I don’t work out),,
+22,26 days,Ovulation,4,0 hours (I don’t work out),,
+23,30,Follicular,7,2–4 hours,,
+24,28-35days,Menstrual,8,8–10 hours,,
+25,28 days,Ovulation,4,2–4 hours,,
+26,80days,Ovulation,3,Less than 2 hours,,
+27,Around 35 to 40 days,Menstrual,1,0 hours (I don’t work out),,
+28,3,Follicular,4,2–4 hours,30,
+29,I’m not sure,Follicular,7,2–4 hours,12-20,4-5 hours
+30,23 days,Follicular,5,0 hours (I don’t work out),12-20,6-7 hours
+31,28 days ,Menstrual,5,Less than 2 hours,21-30,6-7 hours
+32,28 days,Menstrual,5,Less than 2 hours,21-30,6-7 hours
+33,28,Menstrual,3,5–7 hours,21-30,8-9 hours
+34,25 days,Menstrual,4,2–4 hours,21-30,10+ hours
+35,28,Menstrual,4,0 hours (I don’t work out),21-30,8-9 hours
+36,23 days,Menstrual,1,8–10 hours,21-30,8-9 hours
+37,28,Menstrual,3,More than 10 hours,21-30,6-7 hours
+38,Around 30 days,Menstrual,10,Less than 2 hours,12-20,8-9 hours
+39,31-35,Menstrual,6,0 hours (I don’t work out),21-30,6-7 hours
+40,32 days,Menstrual,5,2–4 hours,21-30,6-7 hours
+41,4 days ,Menstrual,4,2–4 hours,21-30,4-5 hours
+42,22days,Menstrual,7,Less than 2 hours,21-30,8-9 hours
+43,38-50 days (crazy ik),Ovulation,7,0 hours (I don’t work out),21-30,6-7 hours
+44,29,Follicular,4,2–4 hours,21-30,6-7 hours
+45,29,Ovulation,8,5–7 hours,21-30,6-7 hours
+46,28 days,Menstrual,3,Less than 2 hours,21-30,8-9 hours
+47,28,Follicular,4,Less than 2 hours,21-30,8-9 hours
+48,27 to 29,Follicular,5,0 hours (I don’t work out),21-30,8-9 hours
+49,3 weeks to 1 month,Menstrual,6,2–4 hours,21-30,4-5 hours
+50,28,Follicular,1,2–4 hours,21-30,8-9 hours
+51,30,Follicular,9,5–7 hours,21-30,6-7 hours
+52,28,Menstrual,7,0 hours (I don’t work out),21-30,6-7 hours
+53,29 days,Follicular,8,0 hours (I don’t work out),12-20,4-5 hours
+54,About 36days,Menstrual,4,2–4 hours,21-30,6-7 hours
+55,5 days,Follicular,5,2–4 hours,21-30,6-7 hours
+56,28,Follicular,7,2–4 hours,21-30,6-7 hours
+57,25 days,Menstrual,1,Less than 2 hours,12-20,4-5 hours
+58,26,Ovulation,6,0 hours (I don’t work out),21-30,6-7 hours
+59,20-30 days,Menstrual,4,Less than 2 hours,21-30,6-7 hours
+60,5days,Follicular,9,0 hours (I don’t work out),21-30,6-7 hours
+61,29 days,Follicular,2,5–7 hours,21-30,Less than 4 hours
+62,21-25days,Ovulation,9,8–10 hours,21-30,6-7 hours
+63,27 days ,Ovulation,5,0 hours (I don’t work out),12-20,6-7 hours
+64,28 days,Menstrual,4,Less than 2 hours,21-30,8-9 hours
+65,,Menstrual,,,21-30,
+66,26 days,Ovulation,1,Less than 2 hours,21-30,4-5 hours
+67,Ave 28 days,Menstrual,2,5–7 hours,12-20,6-7 hours
+68,30 days ,Menstrual,4,2–4 hours,21-30,6-7 hours
+69,4 days,Ovulation,4,0 hours (I don’t work out),21-30,6-7 hours
+70,28 days,Ovulation,9,2–4 hours,21-30,8-9 hours
+71,28 days,Menstrual,3,0 hours (I don’t work out),21-30,8-9 hours
+72,25-27 days ,Menstrual,2,2–4 hours,21-30,4-5 hours
+73,29 days,Menstrual,7,5–7 hours,21-30,6-7 hours
+74,27 days,Ovulation,7,Less than 2 hours,21-30,8-9 hours
+75,31,Menstrual,3,0 hours (I don’t work out),21-30,8-9 hours
+76,27 days,Menstrual,3,0 hours (I don’t work out),21-30,6-7 hours
+77,21-45 days (irregular),Ovulation,5,0 hours (I don’t work out),21-30,6-7 hours
+78,28 days,Follicular,6,5–7 hours,21-30,6-7 hours
+79,21,Menstrual,3,Less than 2 hours,21-30,6-7 hours
+80,Its become a bit irregular ranging frim 28 to 35 days,Menstrual,1,Less than 2 hours,21-30,6-7 hours
+81,"it changes every cycle,  currently at 49 days",Menstrual,5,0 hours (I don’t work out),21-30,6-7 hours
+82,28 days,Menstrual,6,0 hours (I don’t work out),21-30,6-7 hours
+83,5 days,Follicular,5,Less than 2 hours,21-30,6-7 hours
+84,26 days,Follicular,4,Less than 2 hours,12-20,6-7 hours
+85,3-4 days,Menstrual,1,Less than 2 hours,21-30,6-7 hours
+86,28 days,Ovulation,4,0 hours (I don’t work out),12-20,6-7 hours
+87,35,Menstrual,1,2–4 hours,21-30,6-7 hours
+88,28,Menstrual,1,0 hours (I don’t work out),21-30,8-9 hours
+89,28 days,Menstrual,7,0 hours (I don’t work out),21-30,8-9 hours
+90,4 days,Ovulation,10,0 hours (I don’t work out),21-30,8-9 hours
+91,25 days ,Menstrual,3,Less than 2 hours,21-30,Less than 4 hours
+92,3-4days,Ovulation,1,0 hours (I don’t work out),12-20,6-7 hours
+93,26 to 39 days,Menstrual,2,Less than 2 hours,21-30,6-7 hours
+94,26,Menstrual,3,Less than 2 hours,21-30,6-7 hours
+95,3-4 days,Follicular,8,2–4 hours,21-30,6-7 hours
+96,27,Menstrual,1,5–7 hours,12-20,6-7 hours
+97,6 days,Ovulation,6,Less than 2 hours,12-20,4-5 hours
+98,28days,Ovulation,8,2–4 hours,21-30,8-9 hours
+99,30days,Menstrual,6,2–4 hours,21-30,6-7 hours
+100,28,Menstrual,7,Less than 2 hours,21-30,6-7 hours
+101,30 days,Menstrual,1,5–7 hours,21-30,6-7 hours
